@@ -1,0 +1,7 @@
+C:\Users\hughe\source\repos\GCD_Dylan_Hughes\obj\Debug\GCD_Dylan_Hughes.csprojAssemblyReference.cache
+C:\Users\hughe\source\repos\GCD_Dylan_Hughes\obj\Debug\GCD_Dylan_Hughes.csproj.CoreCompileInputs.cache
+C:\Users\hughe\source\repos\GCD_Dylan_Hughes\bin\Debug\GCD_Dylan_Hughes.exe.config
+C:\Users\hughe\source\repos\GCD_Dylan_Hughes\bin\Debug\GCD_Dylan_Hughes.exe
+C:\Users\hughe\source\repos\GCD_Dylan_Hughes\bin\Debug\GCD_Dylan_Hughes.pdb
+C:\Users\hughe\source\repos\GCD_Dylan_Hughes\obj\Debug\GCD_Dylan_Hughes.exe
+C:\Users\hughe\source\repos\GCD_Dylan_Hughes\obj\Debug\GCD_Dylan_Hughes.pdb
